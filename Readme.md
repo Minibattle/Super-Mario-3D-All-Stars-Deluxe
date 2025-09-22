@@ -1,4 +1,9 @@
 # Super Mario 3D All-Stars Deluxe
+## Full Pre-Configured Feature List
+- HD Texture Packs for all dolphin games
+- 60 FPS for Sunshine
+- Classic controller support for both galaxies
+- Pre-configured optimal settings
 
 
 
