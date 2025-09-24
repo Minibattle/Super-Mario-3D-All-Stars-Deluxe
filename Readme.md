@@ -2,6 +2,8 @@
 ![image](https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe/blob/main/1200px-Logo-Super_Mario_3D_All-Stars.png)
 ### [DOWNLOAD HERE](https://gofile.io/d/JNo23L)
 
+A PC version of Super Mario 3D All-Stars that features further optimizations, 2 games not seen in the original collection, and a few more bonuses
+
 # [Video Showcase](https://youtu.be/ToJclMhr4-g)
 
 ## Full Pre-Configured Feature List
