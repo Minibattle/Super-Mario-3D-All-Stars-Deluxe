@@ -45,6 +45,7 @@ Drag and drop all your ROMS here ensuring the name and file type for each game m
 
 > [!IMPORTANT]
 > Mario Galaxy 1 and 2 MUST be the USA versions of the games. 3D land's custom textures may only work if using a USA ROM
+
 > Super Mario 3D Land may require that you remap your controls. You can do this easily by pressing escape while the game is running, then configuring it as you would any other emulator.
 
 # Step 3
