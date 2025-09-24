@@ -13,7 +13,7 @@ Custom Launcher by [Hazzyjc](https://github.com/HazzyJC)
 - Pre-configured optimal video settings
 - Pre-configured controls
 - A custom launcher that detects which games you have installed
-- Super easy setup (just drag and drop your roms)
+- Super easy setup (*just drag and drop your roms)
 
 
 
