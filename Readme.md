@@ -1,6 +1,9 @@
 # Super Mario 3D All-Stars Deluxe
 ![image](https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe/blob/main/1200px-Logo-Super_Mario_3D_All-Stars.png)
-## [DOWNLOAD HERE]()
+### [DOWNLOAD HERE](https://gofile.io/d/JNo23L)
+
+# [Video Showcase](https://youtu.be/ToJclMhr4-g)
+
 ## Full Pre-Configured Feature List
 - HD Texture Packs for all games
 - 60 FPS for Sunshine
@@ -14,8 +17,8 @@
 
 
 # Installation
-Below is a written guide, but there's also a-
-## [Video Tutorial]()
+Below is a written guide, but there's also a
+## [Video Tutorial](https://youtu.be/JHCXjnGd1Gg)
 You don't need to install every game, you can choose which ones you want, but for a full installation you'll need to provide your own roms. 
 
 **The full list of required items are:**
@@ -23,7 +26,35 @@ You don't need to install every game, you can choose which ones you want, but fo
 - Super Mario Galaxy 2.wbfs (USA VERSION)
 - Super Mario Sunshine.iso
 - Your preferred version of the Super Mario 64 PC Port
-- Super Mario 3D Land.3ds
+- Super Mario 3D Land.cci
+
+> [!IMPORTANT]
+> The file types for Sunshine, galaxy 1, galaxy 2, and 3d land mut match. If you have a .3ds file for 3D land, you can simply rename it to .cci
+
+# Step 1
+Extract the folder somewhere you'd like to keep it, and open the "data" folder, then the "ROMS" folder.
+
+# Step 2
+Drag and drop all your ROMS here ensuring the name and file type for each game match exactly. Here's a list
+- Super Mario Sunshine.iso
+- Super Mario Galaxy.wbfs
+- Super Mario Galaxy 2.wbfs
+- Super Mario 3D Land.cci
+
+> [!IMPORTANT]
+> Mario Galaxy 1 and 2 MUST be the USA versions of the games. 3D land's custom textures may only work if using a USA ROM
+
+# Step 3
+For Super Mario 64, we use the PC port so open the Super Mario 64 folder and put the game contents in there. Then rename the game exe to
+- Super Mario 64.exe
+if you did it right, the file path to your mario 64 exe should be- data > ROMS > Super Mario 64 > Super Mario 64.exe
+
+# Step 4
+Open the launcher by either using the bat file at the folder root, or opening it via launcher > Super Mario 3D All-Stars DELUXE.exe
+- If you want to add it as a non-steam game for use with steam input, add the exe directly, not the bat file. This can be helpful if your controller isn't being picked up.
+
+# Step 5
+Every game should be lit up now and can be launched via a simple button press. Do note that 3D Land will likely require that you bind the controls manually by pressing escape then binding it. Other than that, everything should just work and your good to go! No extra setup neccessary.
 
 
 # Mods and tools used to make this collection
