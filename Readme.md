@@ -47,7 +47,8 @@ Drag and drop all your ROMS here ensuring the name and file type for each game m
 # Step 3
 For Super Mario 64, we use the PC port so open the Super Mario 64 folder and put the game contents in there. Then rename the game exe to
 - Super Mario 64.exe
-if you did it right, the file path to your mario 64 exe should be- data > ROMS > Super Mario 64 > Super Mario 64.exe
+
+ if you did it right, the file path to your mario 64 exe should be- data > ROMS > Super Mario 64 > Super Mario 64.exe
 
 # Step 4
 Open the launcher by either using the bat file at the folder root, or opening it via launcher > Super Mario 3D All-Stars DELUXE.exe
