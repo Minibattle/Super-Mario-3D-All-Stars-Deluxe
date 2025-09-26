@@ -34,7 +34,7 @@ You don't need to install every game, you can choose which ones you want, but fo
 - Super Mario 3D Land.cci
 
 > [!IMPORTANT]
-> The file types for Sunshine, galaxy 1, galaxy 2, and 3d land mutch match. If you have a .3ds file for 3D land, you can simply rename it to .cci
+> The file types for Sunshine, galaxy 1, galaxy 2, and 3d land must match. If you have a .3ds file for 3D land, you can simply rename it to .cci
 
 # Step 1
 Extract the folder somewhere you'd like to keep it, and open the "data" folder, then the "ROMS" folder.
