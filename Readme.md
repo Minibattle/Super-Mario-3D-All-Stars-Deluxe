@@ -1,5 +1,6 @@
 # Super Mario 3D All-Stars Deluxe
 A PC version of Super Mario 3D All-Stars that features further optimizations, 2 games not seen in the original collection, and a few more enhancements
+### Please give all of your love to the links down below, they are the ones responsible for the emulators, texture packs, and other configurations used to make any of this possible!
 ![image](https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe/blob/main/1200px-Logo-Super_Mario_3D_All-Stars.png)
 # [DOWNLOAD HERE](https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe/releases/download/1.1/Super.Mario.3D.All-Stars.DELUXE.1.1.zip)
 ### Custom Launcher by [Hazzyjc](https://github.com/HazzyJC)
