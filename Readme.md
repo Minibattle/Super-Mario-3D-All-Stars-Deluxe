@@ -15,6 +15,7 @@ https://ko-fi.com/minibattlelop
 - Classic controller support for both galaxies
 - Pre-configured optimal video settings
 - Pre-configured controls
+- Uninverted Sunshine camera
 - A custom launcher that detects which games you have installed
 - Super easy setup (*just drag and drop your roms)
 
