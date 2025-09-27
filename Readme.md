@@ -73,17 +73,17 @@ Every game should be lit up now and can be launched via a simple button press. D
 - [Super Mario 64 PC Port](https://sm64pc.info/)
 
   ### Super Mario Sunshine
-- [Super Mario Sunshine 4K Textures](https://www.patreon.com/collection/19179?view=expanded)
+- [Super Mario Sunshine 4K Textures](https://www.patreon.com/collection/19179?view=expanded) - Henriko Magnifico
 
   ### Super Mario Galaxy
 - [Super Mario Galaxy Controller Prompts](https://www.reddit.com/r/DolphinEmulator/comments/c0jdx4/xbox_one_controller_prompts_pack/)
-- [Super Mario Galaxy Faithful HD Textures](https://youtu.be/P8lkzqYP7eg)
-- [Super Mario Galaxy Classic Controller Patch](https://youtu.be/0evN_8UFGjA)
+- [Super Mario Galaxy Faithful HD Textures](https://youtu.be/P8lkzqYP7eg) - Super Hackio
+- [Super Mario Galaxy Classic Controller Patch](https://youtu.be/0evN_8UFGjA) - Super Hackio
 
   ### Super Mario Galaxy 2
-- [Super Mario Galaxy 2 Controller Prompts](https://gamebanana.com/mods/514753)
-- [Super Mario Galaxy 2 Faithful HD Textures](https://youtu.be/_TBhu-NfrX0)
-- [Super Mario Galaxy 2 Classic Controller Patch](https://youtu.be/KNAMVv-4W4g)
+- [Super Mario Galaxy 2 Controller Prompts](https://gamebanana.com/mods/514753) - FloweyGaming
+- [Super Mario Galaxy 2 Faithful HD Textures](https://youtu.be/_TBhu-NfrX0) - Super Hackio
+- [Super Mario Galaxy 2 Classic Controller Patch](https://youtu.be/KNAMVv-4W4g) - Super Hackio
 
   ### Super Mario 3D Land
-- [Super Mario 3D Land 4K Texture Pack](https://www.henrikomagnifico.com/super-mario-3d-land-hd)
+- [Super Mario 3D Land 4K Texture Pack](https://www.henrikomagnifico.com/super-mario-3d-land-hd) - Henriko Magnifico
