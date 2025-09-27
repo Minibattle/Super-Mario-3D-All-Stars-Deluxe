@@ -74,8 +74,6 @@ Every game should be lit up now and can be launched via a simple button press. D
   ### Super Mario Sunshine
 - [Super Mario Sunshine 4K Textures](https://www.patreon.com/collection/19179?view=expanded)
 
-)
-
   ### Super Mario Galaxy
 - [Super Mario Galaxy Controller Prompts](https://www.reddit.com/r/DolphinEmulator/comments/c0jdx4/xbox_one_controller_prompts_pack/)
 - [Super Mario Galaxy Faithful HD Textures](https://youtu.be/P8lkzqYP7eg)
