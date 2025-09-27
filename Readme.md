@@ -1,7 +1,7 @@
 # Super Mario 3D All-Stars Deluxe
 A PC version of Super Mario 3D All-Stars that features further optimizations, 2 games not seen in the original collection, and a few more enhancements
 ![image](https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe/blob/main/1200px-Logo-Super_Mario_3D_All-Stars.png)
-# [DOWNLOAD HERE](https://gofile.io/d/JNo23L)
+# [DOWNLOAD HERE](https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe/releases/download/untagged-7e2eae20f265e266a3b5/Super.Mario.3D.All-Stars.DELUXE.1.1.zip)
 ### Custom Launcher by [Hazzyjc](https://github.com/HazzyJC)
 
 🍵 Ko-fi if you would like to support me (completely optional):
@@ -72,7 +72,7 @@ Every game should be lit up now and can be launched via a simple button press. D
 - [Super Mario 64 PC Port](https://sm64pc.info/)
 
   ### Super Mario Sunshine
-- [Super Mario Sunshine UHD Textures](https://github.com/qashto/Super_Mario_Sunshine_UHD_Texture_Pack)
+- [Super Mario Sunshine 4K Textures](https://github.com/Minibattle/Super-Mario-3D-All-Stars-Deluxe/releases)
 
   ### Super Mario Galaxy
 - [Super Mario Galaxy Controller Prompts](https://www.reddit.com/r/DolphinEmulator/comments/c0jdx4/xbox_one_controller_prompts_pack/)
